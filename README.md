@@ -17,7 +17,7 @@
 
 Building scalable backend systems, cloud-native applications, and enterprise software with modern Microsoft technologies.
 
-[🌐 Portfolio](https://galal.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/ahmedgalal94) • [💻 GitHub](https://github.com/AhmedGalal94)
+[🌐 Portfolio](https://ahmedgalal94.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/ahmedgalal94) • [💻 GitHub](https://github.com/AhmedGalal94)
 
 </div>
 
@@ -160,7 +160,7 @@ I enjoy building software that solves real-world problems while maintaining clea
 
 I'm always open to discussing software engineering, backend development, cloud technologies, enterprise integrations, or potential collaboration opportunities.
 
-- 🌐 **Portfolio:** https://galal.github.io
+- 🌐 **Portfolio:** https://ahmedgalal94.github.io
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ahmedgalal94
 - 💻 **GitHub:** https://github.com/AhmedGalal94
 
