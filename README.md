@@ -43,3 +43,4 @@ Open `index.html` and modify the fields to match your personal specifications:
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you see fit.
 
 ---
+Created by [Ahmed Galal](https://ahmedgalal94.github.io)
