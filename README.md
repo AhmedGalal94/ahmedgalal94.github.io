@@ -4,7 +4,7 @@ A clean, responsive, and SEO-optimized developer portfolio built to showcase hig
 
 This portfolio is fully open-source. Feel free to fork it, customize it, and use it to showcase your own engineering journey.
 
-Live Demo: [https://ahemdgalal94.github.io](https://ahemdgalal94.github.io)
+Live Demo: [https://ahmedgalal94.github.io](https://ahmedgalal94.github.io)
 
 ---
 
